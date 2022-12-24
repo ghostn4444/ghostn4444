@@ -1,7 +1,12 @@
-- Hi, I’m ?
+![alt text](https://github.com/ghostn4444/images_ghostn4444/blob/main/Seu%20portal%20para%20o%20mundo%20tech(2).png)
 
-
-<!---
-ghostn4444/ghostn4444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    *==========================*
+    = (\_/)     0_0    (\_/)   =
+    = ( *.*)   (o_o)   ( +.+)  =
+    = />  )>  0/>  )>  />  )>  =
+    = L/-L/    L/L/     V--V   =
+    *==========================*
+              ++++++++
+          TTTTTTTTTTTTTTT
+          
+                by: @GHOSTN4444
