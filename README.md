@@ -10,3 +10,5 @@
           TTTTTTTTTTTTTTT
           
                 by: @GHOSTN4444
+                
+https://tryhackme.com/GosthN444/badges/security-awareness
