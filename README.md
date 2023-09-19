@@ -18,5 +18,5 @@
    <a href="https://tryhackme.com/GosthN444/badges/terminaled"><img width="100px" height="100px" src="https://tryhackme.com/img/badges/linux.svg" /></a>
    <a href="https://tryhackme.com/GosthN444/badges/web-fund"><img width="100px" height="100px" src="https://tryhackme.com/img/badges/webbed.svg" /></a>
    <a href="https://tryhackme.com/GosthN444/badges/security-awareness"><img width="100px" height="100px" src="https://tryhackme.com/img/badges/securityawareness.svg" /></a>
-   <a href="https://tryhackme.com/GosthN444/badges/introtosecurityengineering"><img width="100px" height="100px" src="https://tryhackme.com/img/badges/introtosecurityengineering.svg" /></a>
+   <a href="https://tryhackme.com/GosthN444/badges/intro-to-security-engineering"><img width="100px" height="100px" src="https://tryhackme.com/img/badges/introtosecurityengineering.svg" /></a>
 <div>
