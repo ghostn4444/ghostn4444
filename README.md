@@ -1,17 +1,21 @@
 <div align="left">
-   <img width="100%" src="https://github.com/ghostn4444/images_ghostn4444/blob/main/Seu%20portal%20para%20o%20mundo%20tech(2).png">
+   <a href="https://www.youtube.com/@ghostn4446?sub_confirmation=1"/><img width="100%" src="https://github.com/ghostn4444/images_ghostn4444/blob/main/Seu%20portal%20para%20o%20mundo%20tech(2).png"></a>
 </div>
+
    
-    +=========================+
-    = (\_/)     0_0    (\_/)  =
-    = ( *.*)   (o_o)   ( +.+) =
-    = />  )>  0/>  )>  />  )> =
-    = L/-L/    L/L/     V--V  =
-    +=========================+
-              ++++++++
-          TTTTTTTTTTTTTTT
+    +---------------------------+
+    |  (\_/)     0_0    (\_/)   |
+    |  ( *.*)   (o_o)   ( +.+)  |
+    |  />  )>  0/>  )>  />  )>  |
+    |  L/-L/    L/L/     V--V   |
+    +---------------------------+
+              _|||||||_
+          [##############]
           
                 by: @GHOSTN4444
+                YouTube: @ghostn4446
+
+                
                 
 <div align="left">
    <a href="https://tryhackme.com/GosthN444/badges/blue"><img width="100px" height="100px" src="https://tryhackme.com/img/badges/blue.svg" /></a>
@@ -20,3 +24,5 @@
    <a href="https://tryhackme.com/GosthN444/badges/security-awareness"><img width="100px" height="100px" src="https://tryhackme.com/img/badges/securityawareness.svg" /></a>
    <a href="https://tryhackme.com/GosthN444/badges/intro-to-security-engineering"><img width="100px" height="100px" src="https://tryhackme.com/img/badges/introtosecurityengineering.svg" /></a>
 <div>
+   
+
