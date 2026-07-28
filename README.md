@@ -70,6 +70,11 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghostn4444&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FFFFFF&line=FF0000&point=FF0000&area=true&area_color=FF0000" width="95%"/></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghostn4444/ghostn4444/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghostn4444/ghostn4444/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ghostn4444/ghostn4444/output/pacman-contribution-graph.svg">
+</picture>
 
 <!--  
 📡 CONNECT WITH ME
